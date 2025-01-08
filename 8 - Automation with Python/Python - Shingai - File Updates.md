@@ -29,7 +29,7 @@ For the first part of the algorithm, I imported the `allow_list.txt` by using `i
 
 The Result: 
 
-
+![image](https://github.com/user-attachments/assets/841552e5-566e-41ba-acf9-fab47edf0c46)
 
 ## Convert the String into a List
 ```
@@ -148,6 +148,7 @@ The argument `w` with the `open()` and `with` statement, indicates the file that
 
 The result in the new `allow_list.txt` (13 IP addresses): 
 
+![image](https://github.com/user-attachments/assets/c676d96a-0de8-4fbb-8f5a-4ec7c4cc1307)
 
 ## Summary
 First, I opened the file and identified `remove_list` variable from `allow_list.txt`. Second, I converted the string into a list. Third, I removed some IP addresses from the list. Fourth, I converted the list into a string format and revise the `allow_list.txt`. 
