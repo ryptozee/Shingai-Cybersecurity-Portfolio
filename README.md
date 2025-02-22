@@ -2,7 +2,7 @@
 > Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned!
  
 ## Professional Statements
-I am Shingai Zivuku, a graduate student in Cyber Forensics and Security at Illinois Institute of Technology, maintaining a perfect 4.0 GPA. My academic focus includes advanced topics such as incident response, vulnerability analysis, cybersecurity management, and cyber forensics, aligning with my passion for both Security Analyst and Governance, Risk, and Compliance (GRC) roles.
+I am Shingai Zivuku, a graduate student in Cyber Forensics and Security at Illinois Institute of Technology, maintaining a perfect 4.0 GPA. My academic focus includes advanced topics such as incident response, vulnerability analysis, cybersecurity management, and cyber forensics, aligning with my passion for Incident Response, Threat and Vulnerability Management, Security Analyst and Governance, Risk, and Compliance (GRC) roles.
 
 I bring hands-on experience in Cyber Security, Cloud Native Security, and DevSecOps, having worked as a Senior Systems Engineer at Irembo, where I implemented and managed security infrastructure, including firewalls, endpoint security, and intrusion detection/prevention systems (IDS/IPS).
 
