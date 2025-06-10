@@ -1,16 +1,7 @@
-# Shingai-Cybersecurity-Portfolio
+# Portfolio
 > Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned!
- 
-## Professional Statements
-I am Shingai Zivuku, a graduate student in Cyber Forensics and Security at Illinois Institute of Technology, maintaining a perfect 4.0 GPA. My academic focus includes advanced topics such as incident response, vulnerability analysis, cybersecurity management, and cyber forensics, aligning with my passion for Incident Response, Threat and Vulnerability Management, Security Analyst and Governance, Risk, and Compliance (GRC) roles.
 
-I bring hands-on experience in Cyber Security, Cloud Native Security, and DevSecOps, having worked as a Senior Systems Engineer at Irembo, where I implemented and managed security infrastructure, including firewalls, endpoint security, and intrusion detection/prevention systems (IDS/IPS).
-
-During my tenure as a DevOps Security Engineer at Lens Tolic, I developed and implemented cloud security solutions for a SaaS platforms on AWS and Google Cloud. My work included automating security baselines, integrating security event and incident management (SIEM) tools, and securing Kubernetes environments using advanced technologies like Twistlock (Prisma Cloud). Additionally, I contributed to multi-cloud governance and SEIM optimization, enabling proactive incident response and compliance management.
-
-My commitment to staying at the forefront of cybersecurity extends to my academic projects, where I conducted penetration testing, incident response planning, and cybersecurity maturity model audit. These projects allowed me to apply industry frameworks such as NIST SP 800-171A and OWASP guidelines to assess and improve security posture.
-
-I have also completed the Cybersecurity Professional Certificate, revisiting it recently to refresh my skills and build a strong cybersecurity portfolio. My ultimate goal is to become a Cyber Security Analyst or specialize in Governance, Risk and Compliance, leveraging my analytical skills, problem-solving capabilities, and a keen eye for detail to address complex security challenges and ensure regulatory compliance.
+I have completed the Cybersecurity Professional Certificate, revisiting it as a way to refresh my skills and build a strong cybersecurity portfolio. My ultimate goal is to leverage my analytical skills, problem-solving capabilities, and a keen eye for detail to address complex security challenges and ensure regulatory compliance.
 
 ## Portfolio
 > Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
